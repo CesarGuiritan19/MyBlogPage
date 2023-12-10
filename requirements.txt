@@ -2,4 +2,4 @@ streamlit
 pillow
 requests
 streamlit_lottie
-hover_tabs
+streamlit-on-Hover-tabs
